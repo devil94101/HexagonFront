@@ -1,3 +1,12 @@
+To show the connections of hexagons cities I have used graph with node as cities and links as borders.
+
+Each node can have max of 6 links. These links are neighbours of node. The nodes are shown by red color.
+
+I have use react-d3-graph library to show this graph visualization. You can increase and decrease the size of graph and take to the position you like by dragging it.
+
+It has three section which add delete and get the neighbours of citites. It is a single page application so no reloading will occur.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
